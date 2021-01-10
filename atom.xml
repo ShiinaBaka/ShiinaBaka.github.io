@@ -3,37 +3,35 @@
   <title>ShiinaBaka</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://shiinabaka.github.io/atom.xml" rel="self"/>
   
   <link href="http://shiinabaka.github.io/"/>
-  <updated>2020-07-11T05:52:39.126Z</updated>
+  <updated>2021-01-10T05:17:24.097Z</updated>
   <id>http://shiinabaka.github.io/</id>
   
   <author>
-    <name>Shiina Baka</name>
+    <name>ShiinaBaka</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://shiinabaka.github.io/2020/07/11/hello-world/"/>
-    <id>http://shiinabaka.github.io/2020/07/11/hello-world/</id>
-    <published>2020-07-11T05:52:39.126Z</published>
-    <updated>2020-07-11T05:52:39.126Z</updated>
+    <title>Welcome to Shiina&#39;s Blog</title>
+    <link href="http://shiinabaka.github.io/2021/01/10/Welcome%20to%20Shiina&#39;s%20Blog/"/>
+    <id>http://shiinabaka.github.io/2021/01/10/Welcome%20to%20Shiina&#39;s%20Blog/</id>
+    <published>2021-01-10T05:15:16.212Z</published>
+    <updated>2021-01-10T05:17:24.097Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+    <summary type="html">&lt;h1 id=&quot;Welcome-to-Shiina’s-Blog&quot;&gt;&lt;a href=&quot;#Welcome-to-Shiina’s-Blog&quot; class=&quot;headerlink&quot; title=&quot;Welcome to Shiina’s</summary>
         
       
     
-    </summary>
     
     
     
